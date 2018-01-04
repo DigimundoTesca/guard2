@@ -1378,7 +1378,7 @@ html = """\
         <tr>
           <th>
                   <center data-parsed="">
-                  <img src="https://github.com/DigimundoTesca/guard2/blob/master/logo.png?raw=true" valign="bottom" alt="Masthead Image" align="center" class="text-center" style="max-height:250px; !important:">
+                  <img src="https://github.com/DigimundoTesca/guard2/blob/master/logo.png?raw=true" valign="bottom" alt="Masthead Image" align="center" class="text-center" style="max-height:250px !important;">
                   </center>
                 </th>
 <th class="expander"></th>
